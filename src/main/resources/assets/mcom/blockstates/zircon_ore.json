@@ -1,0 +1,5 @@
+{
+  "variants": {
+    "": { "model": "mcom:block/zircon_ore" }
+  }
+}

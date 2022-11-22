@@ -1,0 +1,15 @@
+{
+"item.mcom.zircon": "Zircon",
+  "item.mcom.raw_zircon": "Raw Zircon",
+
+
+  "block.mcom.zircon_block": "Zircon Block",
+  "block.mcom.zircon_ore": "Zircon Ore",
+  "block.mcom.deepslate_zircon_ore": "Deepslate Zircon Ore",
+  "block.mcom.netherrack_zircon_ore": "Netherrack Zircon Ore",
+  "block.mcom.endstone_zircon_ore": "Endstone Zircon Ore",
+
+
+  "itemGroup.mcomtab": "Zircon Tab"
+
+}

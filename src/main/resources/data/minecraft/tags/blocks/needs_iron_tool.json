@@ -1,0 +1,10 @@
+{
+  "replace": false,
+  "values": [
+    "mcom:zircon_ore",
+    "mcom:zircon_block",
+    "mcom:deepslate_zircon_ore",
+    "mcom:endstone_zircon_ore",
+    "mcom:netherrack_zircon_ore"
+  ]
+}
